@@ -1,5 +1,5 @@
 ### 💫 About Me:
-👨‍🍼 Currently working on how to be a good father<br>✍🏻 Writing side-project code<br>🚀 Learning NextJS and K8s<br>🧑🏻‍💻 Actively looking for a job<br>🎯 Goal: Get AWS SAA Certificate
+👨‍🍼 Currently working on how to be a good father<br>✍🏻 Writing side-project code<br>🚀 Learning NextJS and K8s<br>🧑🏻‍💻 Actively looking for a job<br>🎯 Current Goal: Get AWS SAA Certificate<br>📖 Trying to finish The Pragmatic Programmer
 
 
 ### 💻 Main Tech Stack:
