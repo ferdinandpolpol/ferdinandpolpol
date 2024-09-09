@@ -1,5 +1,6 @@
 ### 💫 About Me:
 👨‍🍼 Currently working on how to be a good father<br>✍🏻 Writing side-project code<br>🚀 Learning NextJS and K8s<br>🧑🏻‍💻 Actively looking for a job<br>🎯 Current Goal: Get AWS SAA Certificate<br>📖 Trying to finish The Pragmatic Programmer
+
 ---
 ### 💻 Main Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) 
