@@ -1,7 +1,6 @@
 ### 💫 About Me:
 🚀 Always learning<br>
-🎯 Current Goal: Get AWS SAA Certificate<br>
-📖 The Pragmatic Programmer<br>
+
 
 ---
 ### 💻 Main Tech Stack:
