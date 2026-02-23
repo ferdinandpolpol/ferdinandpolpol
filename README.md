@@ -1,6 +1,7 @@
 ### 💫 About Me:
 🚀 Always learning<br>
 
+Founding Engineer - MPR Labs
 
 ---
 ### 💻 Main Tech Stack:
